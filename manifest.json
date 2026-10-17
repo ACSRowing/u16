@@ -1,0 +1,17 @@
+{
+  "id": "/u16/",
+  "name": "ACS Rowing: U16 Centre",
+  "short_name": "U16 Centre",
+  "description": "Schedules, program, results and notices for the ACS Rowing U16 squad.",
+  "start_url": "/u16/",
+  "scope": "/u16/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fcfcfa",
+  "theme_color": "#002d72",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
